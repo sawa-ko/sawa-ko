@@ -1,16 +1,33 @@
-### Hi there 👋
+# ¡Hola, soy Kaname! ✋
+Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos realizados o los proyectos en los que he aportado mi pequeña ayuda. Puedes seguirme si gustas para estar al tanto de mis ultimas hazañas. (╯▽╰ )
 
-<!--
-**kaname-png/kaname-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Mis proyectos actuales ✨
+1. Kaede - Bot para Discord.
+2. Kaede Dashboard - Pagina web para el bot para Discord Kaede.
+3. Magu - Aplicación móvil Ecommerce.
+4. Kodachi - Pagina web sobre anime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ¿Qué es lo que se usar? 💻
+1. JavaScript
+2. HTML
+3. CSS
+4. Wordpress
+5. Angular
+6. MongoDb
+7. NodeJs
+8. TypeScript
+9. Ionic
+10. Bootstrap
+11. Bulma CSS
+12. Tailwind CSS
+
+---
+
+### Ahora te presento algunas estadísticas 🔢
+[![Kaname's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaname-png&show_icons=true&theme=radical)](https://github.com/kaname-png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaname-png&theme=radical&layout=compact)](https://github.com/kaname-png)
