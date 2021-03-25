@@ -3,7 +3,7 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 
 ---
 
-### Mis proyectos actuales ✨
+## Mis proyectos actuales ✨
 1. Kaede - Bot para Discord.
 2. Kaede Dashboard - Pagina web para el bot para Discord Kaede.
 3. Magu - Aplicación móvil Ecommerce.
@@ -11,7 +11,7 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 
 ---
 
-### ¿Qué es lo que se usar? 💻
+## ¿Qué es lo que se usar? 💻
 1. JavaScript
 2. HTML
 3. CSS
@@ -27,7 +27,7 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 
 ---
 
-### Ahora te presento algunas estadísticas 🔢
+## Ahora te presento algunas estadísticas 🔢
 [![Kaname's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaname-png&show_icons=true&theme=radical)](https://github.com/kaname-png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaname-png&theme=radical&layout=compact)](https://github.com/kaname-png)
