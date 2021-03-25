@@ -27,6 +27,13 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 
 ---
 
+## Contacto
+<a href="https://discord.com/users/550083219136053259">
+<img src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" width="200">
+</a>
+
+---
+
 ## Ahora te presento algunas estadísticas 🔢
 [![Kaname's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaname-png&show_icons=true&theme=radical)](https://github.com/kaname-png)
 
