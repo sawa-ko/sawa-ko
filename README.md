@@ -23,7 +23,7 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 12. Tailwind CSS
 
 ## Contacto
-<a href="https://discord.com/users/550083219136053259">
+<a href="https://discord.com/users/858367536240394259">
 <img src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" width="200">
 </a>
 
