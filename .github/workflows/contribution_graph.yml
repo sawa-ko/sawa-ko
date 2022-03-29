@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout Project
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          repository: ${{ github.event.inputs.repository || 'kaname-png/revoltx' }}
+          ref: ${{ github.event.inputs.ref || 'main' }}
       - name: Gen contributions graph snake in format GIF
         uses: Platane/snk@v1.1.0
         with:
@@ -17,3 +23,8 @@ jobs:
           gif_out_path: assets/github-contributions.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save
+        uses: mikeal/publish-to-github-action@master
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            BRANCH_NAME: 'master'
