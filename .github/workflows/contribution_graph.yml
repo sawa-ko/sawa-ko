@@ -1,0 +1,19 @@
+name: Generate contribution graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" 
+  workflow_dispatch:
+
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Gen contributions graph snake in format GIF
+        uses: Platane/snk@v1.1.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: assets/github-contributions.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

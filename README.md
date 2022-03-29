@@ -32,3 +32,5 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 [![Kaname's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaname-png&show_icons=true&theme=radical)](https://github.com/kaname-png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaname-png&theme=radical&layout=compact)](https://github.com/kaname-png)
+
+<img src"assets/github-contributions.gif" width="400" height="200" />
