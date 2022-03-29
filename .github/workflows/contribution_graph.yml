@@ -21,6 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: assets/github-contributions.gif
+          svg_out_path: assets/github-contributions.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Save
