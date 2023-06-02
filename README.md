@@ -3,9 +3,12 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 
 
 ## Mis proyectos actuales ✨
-1. Naeko - Bot para Discord.
-2. Naeko Dashboard - Panel de control y area social para el bot para Discord Naeko.
-3. Kodachi - Pagina web sobre anime.
+1. `naeko`: Bot para Discord multiproposito (https://naeko.moe).
+2. `naeko-dashboard`: Panel de control y area social para el bot para Discord Naeko (https://naeko.moe).
+3. `neko-plugins`: Plugins para el framework para discord.js [Saspphire Framework](https://www.sapphirejs.dev/).
+4. `revoltx`: [Saspphire Framework](https://www.sapphirejs.dev/) adaptado para funcionar con [Revolt.js](https://revolt.js.org/)
+5. `kodachi`: Red social sobre _Artworks_ (En pausa)
+6. `akemi`: Red social de mensajeria (En pausa)
 
 ## ¿Qué es lo que se usar/hacer? 💻
 1. JavaScript
