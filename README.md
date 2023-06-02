@@ -7,7 +7,7 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 2. Naeko Dashboard - Panel de control y area social para el bot para Discord Naeko.
 3. Kodachi - Pagina web sobre anime.
 
-## ¿Qué es lo que se usar? 💻
+## ¿Qué es lo que se usar/hacer? 💻
 1. JavaScript
 2. HTML
 3. CSS
