@@ -17,13 +17,12 @@ jobs:
           repository: ${{ github.event.inputs.repository }}
           ref: ${{ github.event.inputs.ref }}
       - name: Gen contributions graph snake in format GIF
-        uses: Platane/snk@v1.1.0
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: assets/github-contributions.gif
-          svg_out_path: assets/github-contributions.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
       - name: Save
         uses: mikeal/publish-to-github-action@master
         env:
