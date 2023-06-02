@@ -43,4 +43,5 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawa-ko&theme=radical&layout=compact)](https://github.com/sawa-ko)
 
-<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-contributions.svg" width="500" height="150" />
+<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake.svg#gh-light-mode-only" width="500" height="150" />
+<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake-dark.svg#gh-dark-mode-only" width="500" height="150" />
