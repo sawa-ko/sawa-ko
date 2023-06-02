@@ -1,6 +1,8 @@
 # ¡Hola, soy Sawako! ✋
 Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos realizados o los proyectos en los que he aportado mi pequeña ayuda. Puedes seguirme si gustas para estar al tanto de mis ultimas hazañas. (╯▽╰ )
 
+<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake.svg#gh-light-mode-only" width="500" height="150" />
+<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake-dark.svg#gh-dark-mode-only" width="500" height="150" />
 
 ## Mis proyectos actuales ✨
 1. `naeko`: Bot para Discord multiproposito (https://naeko.moe).
@@ -42,9 +44,7 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 
 
 ## Ahora te presento algunas estadísticas 🔢
-[![Sawako's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawa-ko&show_icons=true&theme=radical)](https://github.com/sawa-ko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawa-ko&theme=radical&layout=compact)](https://github.com/sawa-ko)
-
-<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake.svg#gh-light-mode-only" width="500" height="150" />
-<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake-dark.svg#gh-dark-mode-only" width="500" height="150" />
+Mi rendimiento             |  Mis lenguajes mas usados
+:-------------------------:|:-------------------------:
+[![Sawako's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawa-ko&show_icons=true&theme=radical)](https://github.com/sawa-ko)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawa-ko&theme=radical&layout=compact)](https://github.com/sawa-ko)
