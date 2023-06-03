@@ -36,6 +36,9 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 21. TailwindCSS
 22. ExpressJs
 23. CI/CD
+24. Figma
+25. Prisma
+26. Mikro-ORM
 
 ## Contacto
 <a href="https://discord.sawako.dev">
