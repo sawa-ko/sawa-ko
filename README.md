@@ -1,18 +1,18 @@
-# ¡Hola, soy Sawako! ✋
-Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos realizados o los proyectos en los que he aportado mi pequeña ayuda. Puedes seguirme si gustas para estar al tanto de mis ultimas hazañas. (╯▽╰ )
+# Hi, I'm Sawako! ✋
+This is my Github profile, here you can find the list of my completed projects or the projects in which I have contributed my little help. You can follow me if you like to be aware of my latest exploits. (╯▽╰ )
 
 <img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake.svg#gh-light-mode-only" width="500" height="150" />
 <img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake-dark.svg#gh-dark-mode-only" width="500" height="150" />
 
-## Mis proyectos actuales ✨
-1. `naeko`: Bot para Discord multiproposito (https://naeko.moe).
-2. `naeko-dashboard`: Panel de control y area social para el bot para Discord Naeko (https://naeko.moe).
-3. `neko-plugins`: Plugins para el framework para discord.js [Saspphire Framework](https://www.sapphirejs.dev/).
-4. `revoltx`: [Saspphire Framework](https://www.sapphirejs.dev/) adaptado para funcionar con [Revolt.js](https://revolt.js.org/)
-5. `kodachi`: Red social sobre _Artworks_ (En pausa)
-6. `akemi`: Red social de mensajeria (En pausa)
+## My current projects ✨
+1. `naeko`: Multipurpose Discord Bot (https://naeko.moe).
+2. `naeko-dashboard`: Control panel and social area for the Discord Naeko bot (https://naeko.moe).
+3. `neko-plugins`: Plugins for the discord.js framework [Saspphire Framework](https://www.sapphirejs.dev/).
+4. `revoltx`: [Saspphire Framework](https://www.sapphirejs.dev/) adapted to work with [Revolt.js](https://revolt.js.org/)
+5. `kodachi`: Social network about _Artworks_ (En pausa)
+6. `akemi`: Social messaging network (En pausa)
 
-## ¿Qué es lo que se usar/hacer? 💻
+## What do i use/do? 💻
 1. JavaScript
 2. HTML
 3. CSS
@@ -40,14 +40,14 @@ Este es mi perfil de Github, aquí puedes encontrar la lista de mis proyectos re
 25. Prisma
 26. Mikro-ORM
 
-## Contacto
+## Contact
 <a href="https://discord.sawako.dev">
 <img src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" width="200">
 </a>
 
 
-## Ahora te presento algunas estadísticas 🔢
+## Here are some statistics 🔢
 
-Mi rendimiento             |  Mis lenguajes mas usados
+My performance             |  My most used languages
 :-------------------------:|:-------------------------:
 [![Sawako's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawa-ko&show_icons=true&theme=radical)](https://github.com/sawa-ko)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawa-ko&theme=radical&layout=compact)](https://github.com/sawa-ko)
