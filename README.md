@@ -45,9 +45,11 @@ This is my Github profile, here you can find the list of my completed projects o
 <img src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" width="200">
 </a>
 
-
 ## Here are some statistics 🔢
 
 My performance             |  My most used languages
 :-------------------------:|:-------------------------:
 [![Sawako's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawa-ko&show_icons=true&theme=radical)](https://github.com/sawa-ko)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawa-ko&theme=radical&layout=compact)](https://github.com/sawa-ko)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
